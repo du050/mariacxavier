@@ -51,8 +51,6 @@ I'm **Maria**, a passionate **Software Development student** from **Brazil** ðŸ‡
 ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-blueviolet?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -78,9 +76,9 @@ I'm **Maria**, a passionate **Software Development student** from **Brazil** ðŸ‡
 
 ![Connect](https://img.shields.io/badge/Let's%20Connect-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacxavier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-cintra-xavier)
 [![GitHub](https://img.shields.io/badge/GitHub-darkblue?style=flat-square&logo=github&logoColor=white)](https://github.com/mariacxavier)
-[![Email](https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
+[![Email](https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:dudacintraxwork@gmail.com)
 
 </div>
 
