@@ -1,7 +1,7 @@
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&width=435&lines=Hello%2C+I'm+Maria!+👋;Software+Development+Student+%F0%9F%92%BB;Tech+%26+Business+Enthusiast+%F0%9F%93%88](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=4B0082&center=true&width=700&lines=Hello%2C+I'm+Maria!+👋;Aspiring+Software+Development+Student+%F0%9F%92%BB;Tech+%26+Business+Passionate+%F0%9F%93%88;Lifelong+Learner+%F0%9F%93%96
-)" alt="Typing SVG">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=4B0082&center=true&width=700&lines=Hello%2C+I'm+Maria!+👋;Aspiring+Software+Development+Student+%F0%9F%92%BB;Tech+%26+Business+Passionate+%F0%9F%93%88;Lifelong+Learner+%F0%9F%93%96)
+
 
 ---
 
