@@ -53,6 +53,9 @@ I'm **Maria**, a passionate **Software Development student** from **Brazil** ðŸ‡
 ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Software Ideas Modeler](https://img.shields.io/badge/SIM-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDEyLjVoMjMuNXYySDR6TTkgOC43bDEuNi0xLjYgMS40IDEuNEwxMi42IDdoMi4zTDExLjkgMTAuNkw5IDguN3ptNyAyLjNsMi4zLTIuMyAyLjMgMi4zLTEuNiAxLjYtMS40LTEuNC0yLjMtMi4zem0tMi4yIDQuM0w4LjcgMTUgNiA3LjUgMTQuNSAxNkwxMCAxMGw0IDMuM3pNMTIgMTEuOGw1LjMgNS4zTDE4IDkuOUwxMiAxMy45em0zLjItMi43TDkuNSAzLjUgMjkgMTUuNUw3LjUgMjQuNSA1IDEyIDEyIDEweiIvPjwvZz48L3N2Zz4=)
+![Figma](https://img.shields.io/badge/Figma-darkblue?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
