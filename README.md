@@ -36,7 +36,7 @@ I'm **Maria**, a passionate **Software Development student** from **Brazil** �
 ## 💼 **What I’m Currently Working On**
 
 ![Projects](https://img.shields.io/badge/-Active%20Projects-blueviolet?style=for-the-badge&logo=project&logoColor=white)  
-- **Software Analysis**: Understanding the SDLC and the Analysis in Technical and Business points of view.
+- **Software Analysis**: Understanding the SDLC and the Analysis in Technical and Business points of view, currently towards a coding learn platform.
 - **UX Design**: Improving user experience for innovative web and mobile apps.
 - **Database Design and Programming**: Optimizing database structures for clean, efficient data management.
 -- **Budged Tracker**: Building a Budget Tracker to optimize my finances.
